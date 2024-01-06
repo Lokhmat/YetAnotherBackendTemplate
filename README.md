@@ -1,5 +1,6 @@
 # FastAPI+PostgreSQL+NGINX docker template
 (Русская версия ниже)
+
 Hello!
 This is a working template of a backend server on FastAPI with a PostgreSQL database. Pretty much everything is already set up and ready to use.
 
