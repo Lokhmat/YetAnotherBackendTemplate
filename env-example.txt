@@ -1,0 +1,10 @@
+# docker container env variables
+POSTGRES_DB=postgres
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+# pgmigrate env variables
+PGHOST=localhost
+PGPORT=5432
+PGDATABASE=postgres
+PGUSER=postgres
+PGPASSWORD=postgres
