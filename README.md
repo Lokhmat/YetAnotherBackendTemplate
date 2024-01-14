@@ -30,7 +30,7 @@ What can be improved:
 **Possible FAQs:**
 -
 1. How to add a migration?
-Write it in a new file under database/migrations. Important: the name should match the pattern: `V{XX}__{name}.sql
+Write it in a new file under database/migrations. Important: the name should match the pattern: ```V{XX}__{name}.sql```
 Where:
     - XX - the version of your migration
     - name - its name
@@ -59,7 +59,7 @@ This section can be updated as the repository evolves.
 2. Заполнить .env файл. Пример есть в env-example.txt
 3. Установить Python, Docker и зависимости из app/requirements.txt
 4. Запустить startup.sh
-5. Убедиться что все запустилось :)
+5. Убедиться что все запустилось 🙂
 
 **Что можно улучшить:**
 -
